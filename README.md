@@ -30,3 +30,10 @@ Result:
 Once application runs on http://127.0.0.1:8000/ 
 You can visit the API documentation at http://127.0.0.1:8000/docs
 with the uploadfile endpoint you can upload the file and get the desired results.
+
+![image](https://github.com/scarface414/Stock-Volatility-Calculator/assets/80483279/cb54e0da-2c07-4da2-9b88-5bea86d7aa15)
+
+![image](https://github.com/scarface414/Stock-Volatility-Calculator/assets/80483279/6e697fc5-34a4-4de1-9a43-c225b7ecc628)
+
+
+
