@@ -4,8 +4,7 @@ Creating a http endpoint using FastAPI implementing the following Functionality:
 2. Compute Daily, Annualized volatility and return these values
 
 ## Project Structure
-- ** template -- folder
-        - **index.html** for rendering the html page.
+- ** stockvolatility -- folder
 - **main.py:** The main FastAPI application file.
 - **requirements.txt:** all required library in this file.
 
